@@ -1,0 +1,1 @@
+![](https://tryhackme-images.s3.amazonaws.com/user-uploads/5de96d9ca744773ea7ef8c00/room-content/708e85cf63230b21bacee32bfbd6d311.png)

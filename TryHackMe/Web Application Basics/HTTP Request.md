@@ -1,0 +1,1 @@
+An **HTTP request** is what a user sends to a web server to interact with a web application and make something happen. Since these requests are often the first point of contact between the user and the web server, knowing how they work is super important—especially if you’re into cyber security.![[Pasted image 20241207144119.png]]

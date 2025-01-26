@@ -1,0 +1,13 @@
+OSINT, short for Open-Source Intelligence, is **data that has been obtained from publicly available sources**. OSINT is widely used within law enforcement work, cybercrime activities such as planning an attack, or for business operation purposes, such as checking out the competition. This course will primarily be focusing on the application of OSINT tools and techniques for both red (offensive) and blue (defensive) teams. Let’s explore some examples of OSINT data:
+
+- **A company that has a public web page that introduces some/all of their employees** (think a “meet the team!” page). An attacker could use this to very easily gather a list of targets for social engineering attacks. Some sites may even include contact email addresses or phone numbers, which can aid the social engineering process dramatically.
+
+- **Job Descriptions that leak information about a company’s internal systems** (example: a system administrator role requiring experience with Windows Server 2016 and Solaris). An attacker can use this to plan internal attacks, lateral movement, and privilege escalation once they have gained a foothold in the network.
+
+- **Photos on social media that are geotagged and contain device information in the metadata**(example: that nice photo you shared on holiday? we can find where that is, usually in a matter of seconds – and the device you took it on).
+
+- **Reading a user’s social media profile to build up a profile of them** (information such as date of birth, locations, friends, interests, family). This can be used to learn more about an individual, which is commonly done pre-interview so that employees can get a sense of how the person will act in the workplace.
+
+- **Exposing Cyber Criminals.** Whilst this begins to move into the Threat Intelligence domain, it is possible to use OSINT sources and social-engineering skills to identify the true identity of cybercriminals and pass the details to law enforcement. Whilst this is out of scope for this entry-level course, it shows how powerful OSINT can be in the right hands.
+
+As you can see, the above can be useful to both attackers and defenders. Attackers can build up a good picture of their target without directly interacting with their systems, whilst defenders can get a sense of the publicly available information that is present on the internet, and work to reduce this or mitigate it using security controls such as user awareness training and social-media policies.
